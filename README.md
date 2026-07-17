@@ -210,13 +210,14 @@ WORLD_LAYOFFS_SQL_EDA
 
 │
 
-├── Images
+├── Assests
 │   ├── project_banner.png
 │   ├── analysis_workflow.png
 │   └── key_business_insights.png
 │
 ├── Dataset
-│   └── layoffs.csv
+│   ├── layoffs.csv
+│   └── layoffs_cleaned.csv
 │
 ├── SQL Scripts
 │   └── 02_World_Layoffs_EDA_and_Business_Insights.sql
